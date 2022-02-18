@@ -6,7 +6,7 @@
 
   (title_block
     (title "Eurorack PSU")
-    (rev "0.1.0")
+    (rev "0.2.0")
     (company "Butch Warns")
   )
 
@@ -1888,7 +1888,7 @@
     (property "Value" "1N5060" (id 1) (at 87.63 104.1399 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" (id 2) (at 80.645 102.87 0)
+    (property "Footprint" "Diode_THT:D_DO-15_P10.16mm_Horizontal" (id 2) (at 80.645 102.87 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.vishay.com/docs/88503/1n4001.pdf" (id 3) (at 85.09 102.87 0)
@@ -2028,7 +2028,7 @@
     (property "Value" "1N5060" (id 1) (at 101.6 104.1399 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" (id 2) (at 94.615 102.87 0)
+    (property "Footprint" "Diode_THT:D_DO-15_P10.16mm_Horizontal" (id 2) (at 94.615 102.87 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.vishay.com/docs/88503/1n4001.pdf" (id 3) (at 99.06 102.87 0)
@@ -2334,7 +2334,7 @@
     (property "Value" "1N5060" (id 1) (at 101.6 88.8999 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" (id 2) (at 94.615 87.63 0)
+    (property "Footprint" "Diode_THT:D_DO-15_P10.16mm_Horizontal" (id 2) (at 94.615 87.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.vishay.com/docs/88503/1n4001.pdf" (id 3) (at 99.06 87.63 0)
@@ -2686,7 +2686,7 @@
     (property "Value" "1N5060" (id 1) (at 87.63 88.8999 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" (id 2) (at 80.645 87.63 0)
+    (property "Footprint" "Diode_THT:D_DO-15_P10.16mm_Horizontal" (id 2) (at 80.645 87.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.vishay.com/docs/88503/1n4001.pdf" (id 3) (at 85.09 87.63 0)
@@ -2800,16 +2800,16 @@
       (reference "C13") (unit 1) (value "22uF") (footprint "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm")
     )
     (path "/f34b4507-f5d7-4b15-9ede-8d76d9cea360"
-      (reference "D1") (unit 1) (value "1N5060") (footprint "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal")
+      (reference "D1") (unit 1) (value "1N5060") (footprint "Diode_THT:D_DO-15_P10.16mm_Horizontal")
     )
     (path "/31c7e7d4-2566-4ceb-b304-6dfc36679056"
-      (reference "D2") (unit 1) (value "1N5060") (footprint "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal")
+      (reference "D2") (unit 1) (value "1N5060") (footprint "Diode_THT:D_DO-15_P10.16mm_Horizontal")
     )
     (path "/9705ebf1-c2ec-44a4-8cff-df85e62870ac"
-      (reference "D3") (unit 1) (value "1N5060") (footprint "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal")
+      (reference "D3") (unit 1) (value "1N5060") (footprint "Diode_THT:D_DO-15_P10.16mm_Horizontal")
     )
     (path "/5937859a-61e8-45ba-9ebc-1202e95598fd"
-      (reference "D4") (unit 1) (value "1N5060") (footprint "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal")
+      (reference "D4") (unit 1) (value "1N5060") (footprint "Diode_THT:D_DO-15_P10.16mm_Horizontal")
     )
     (path "/c155e713-676d-49b4-a2d9-40174c28c34c"
       (reference "D5") (unit 1) (value "1N4004") (footprint "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal")
