@@ -1,1 +1,1 @@
-# PSU
+# Eurorack PSU
