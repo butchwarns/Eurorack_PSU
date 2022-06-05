@@ -36,17 +36,21 @@ The *main* branch of this repository holds the current tested version of the boa
 
 ## Features
 
-- Designed for standard $+12V$, $-12V$, $+5V$ power ($\pm 15V$ should also be possible by adjusting the potentiometers).  
+- For standard $+12V$, $-12V$, $+5V$ power ($\pm 15V$ should also be possible by adjusting the potentiometers but was not yet tested).  
 - $\approx 1.3A$ per rail (regulators are rated $1.5A$ abolute maximum)
 - Three LEDs indicate the rails being powered.
 - Little heat generation
 - Fuses on both secondary windings
 
+Designed to work with the [Eurorack_Bus_Board](https://github.com/butchwarns/Eurorack_Bus_Board/), but can also be used in conjunction with other bus boards.
+
 ## Installation
 
 M3 screws and PCB spacers can be used to mount the board to the back of a case.  
-Regular 6.3mm flat connectors are used for connecting to both transformer and bus board.
-Use a toroidal transformer with split secondaries at 15VAC (choose one capable of driving enough current to meet your needs! Both positive rails are powered by the same transformer winding.)
+Regular 6.3mm flat connectors are used for connecting to both transformer and bus board.  
+
+Use a toroidal transformer with split secondaries at 15VAC and choose one capable of driving enough current to meet your needs!  
+(Both positive rails are powered by the same transformer winding.)
 
 ## How to use?
 
