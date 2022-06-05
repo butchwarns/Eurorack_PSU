@@ -54,7 +54,8 @@ Use a toroidal transformer with split secondaries at 15VAC and choose one capabl
 
 ## How to use?
 
-*(TODO!: Write usage instructions incuding calibration and setup)*
+Both secondary windings of the transformer are connected on one side of the board. Eurorack power is output on the other side.  
+Use a voltmeter to adjust the individual voltages by turning the trimmer potentiometers. if you wan't to be extra precise you can attach a suitable load resistance and adjust the voltages when drawing the same amount of current your modules would do.
 
 ## How to build?
 
