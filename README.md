@@ -52,6 +52,9 @@ Regular 6.3mm flat connectors are used for connecting to both transformer and bu
 Use a toroidal transformer with split secondaries at 15VAC and choose one capable of driving enough current to meet your needs!  
 (Both positive rails are powered by the same transformer winding.)
 
+*(TODO!: Add graphic showing transformer wiring)*
+
+
 ## How to use?
 
 *(TODO!: Write usage instructions incuding calibration and setup)*
