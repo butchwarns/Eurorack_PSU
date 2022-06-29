@@ -1,7 +1,9 @@
 # Eurorack PSU
+[![OPEN SOURCE](https://img.shields.io/badge/Open%20source%3F-YES-green.svg)](https://shields.io/) [![NOT BEGINNER FRIENDLY](https://img.shields.io/badge/Beginner%20friendly%3F-NO-red.svg)](https://shields.io/)
+
 
 A simple linear adjustable power supply for modular synthesizers in the Eurorack format.  
-It's easy to build and outputs more than $1A$ at $+12V$, $-12V$ and $+5V$ each.
+It's easy to build and outputs more than 1A at +12V, -12V and +5V each.
 
 ![bus board assembled](/pictures/eurorack_psu_v010_assembled.jpg?raw=true "psu assembled")
 *Eurorack_PSU v0.1.0*
@@ -36,7 +38,7 @@ The *main* branch of this repository holds the current tested version of the boa
 
 ## Features
 
-- For standard $+12V$, $-12V$, $+5V$ power ($\pm 15V$ should also be possible by adjusting the potentiometers but was not yet tested).  
+- For standard +12V, -12V, +5V power (±15V should also be possible by adjusting the potentiometers but was not yet tested).  
 - $\approx 1.3A$ per rail (regulators are rated $1.5A$ abolute maximum)
 - Three LEDs indicate the rails being powered.
 - Little heat generation
